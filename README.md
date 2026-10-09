@@ -5,7 +5,7 @@
 
 ## Authors
 
-- [Sahinur Islam](https://www.github.com/devsahinur)
+- [Sahinur Islam](https://www.github.com/SahinurDEV)
 
 ## Features
 
